@@ -1,2 +1,2 @@
-travel_notes
+Travel Notes
 ============
